@@ -1917,6 +1917,7 @@
     "manufacturerCode": 4417,
     "sha512": "de90934f4b23a4fe59ab6550919f43f01ce93ec933c251f3a42b65927874a040bacc8acf3c6b356f1c306b56be85fddbab85c88eaa5f9a95b8d2ce2ed04d4aea",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "force": true,
     "manufacturerName": [
       "_TZ3000_0t4zjtia",
       "0t4zjtia"
