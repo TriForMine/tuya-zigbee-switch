@@ -4202,7 +4202,8 @@ SWITCH_BSEED_TOUCH_MELODY_TS0001:
   mcu: TLSR8258
   config_str: ysdv91bk;TS0001-BSMN;LA0i;SC3u;RC2;M;
   alt_config_str: null
-  old_manufacturer_names: null
+  old_manufacturer_names:
+    - "_TZ3000_0t4zjtia"
   old_zb_models: null
   stock_manufacturer_id: 4417
   stock_image_type: 54179
